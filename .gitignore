@@ -4,3 +4,4 @@ packer
 compile_commands.json
 CMakeFiles/
 Makefile
+build/
