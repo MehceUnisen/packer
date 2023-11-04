@@ -1,0 +1,6 @@
+cmake*
+CMakeCache.txt
+packer
+compile_commands.json
+CMakeFiles/
+Makefile
