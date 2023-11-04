@@ -1,5 +1,6 @@
 #include "packer.hpp"
 
 bool Packer::pack(int dataSet) {
-    return true;
+    FileReader reader;
+    m_dataSet = reader.read("data_set/C1_1");
 }
